@@ -481,62 +481,23 @@
       "youtube": "https://www.youtube.com/watch?v=cxjvTXo9WWM"
     }
   ],
-  "artistPlaylists": {
-    "Pharrell Williams": [
-      {
-        "title": "Happy",
-        "mood": "happy",
-        "cover": "https://img.youtube.com/vi/ZbZSe6N_BXs/maxresdefault.jpg",
-        "preview": "https://p.scdn.co/mp3-preview/1.mp3",
-        "spotify": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
-        "youtube": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
-      }
-      
-    ],
-    "Justin Timberlake": [
-      {
-        "title": "Can't Stop The Feeling!",
-        "mood": "happy",
-        "cover": "https://img.youtube.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
-        "preview": "https://p.scdn.co/mp3-preview/2.mp3",
-        "spotify": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
-        "youtube": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
-      }
-      
-    ],
-    "Adele": [
-      {
-        "title": "Someone Like You",
-        "mood": "sad",
-        "cover": "https://img.youtube.com/vi/hLQl3WQQoQ0/maxresdefault.jpg",
-        "preview": "https://p.scdn.co/mp3-preview/3.mp3",
-        "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
-        "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
-      }
-      
-    ],
-    "Justin Timberlake": [
-      {
-        "title": "Can't Stop The Feeling!",
-        "mood": "happy",
-        "cover": "https://img.youtube.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
-        "preview": "https://p.scdn.co/mp3-preview/2.mp3",
-        "spotify": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
-        "youtube": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
-      }
-      
-    ],
-    "Adele": [
-      {
-        "title": "Someone Like You",
-        "mood": "sad",
-        "cover": "https://img.youtube.com/vi/hLQl3WQQoQ0/maxresdefault.jpg",
-        "preview": "https://p.scdn.co/mp3-preview/3.mp3",
-        "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
-        "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
-      }
-      
-    ]
-   
-  }
+  "confused": [
+    {
+      "title": "Lost Cause",
+      "artist": "Billie Eilish",
+      "cover": "https://img.youtube.com/vi/2Vv-BfVoq4g/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/316.mp3",
+      "spotify": "https://open.spotify.com/track/2Vv-BfVoq4g",
+      "youtube": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "cover": "https://img.youtube.com/vi/DlZc8k6d9aY/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/317.mp3",
+      "spotify": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXyXQe",
+      "youtube": "https://www.youtube.com/watch?v=DlZc8k6d9aY"
+    }
+  ]
+
 }
